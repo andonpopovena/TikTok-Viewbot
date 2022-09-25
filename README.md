@@ -2,11 +2,15 @@
 Lets you abuse the TikTok API to viewbot videos
 
 # Usage
-First of all you would need to install requirements! You can do it by executing this command
+- Press the `code` button and download it as zip file, then extract the zip file
+- Once you've done that you'll need to install python3, it can be found at https://www.python.org/downloads/ (keep in mind if you install it from there you'll need to tick the install to PATH button) or from windows store or your package manager of choice
+- Open cmd and locate the path of the extracted repository, alternatively on windows 11 this can be done from file explorer by just right clicking and pressing open in terminal
+
+- Then you would need to install requirements! You can do it by executing this command
 ```
 python -m pip install -r requirements.txt
 ```
-You can see the help for this script by executing this command
+Once you've done that you can do this command and you're good to go
 ```
-python main.py -h
+python main.py 
 ```
