@@ -8,5 +8,5 @@ python -m pip install -r requirements.txt
 ```
 You can see the help for this script by executing this command
 ```
-python viewbot.py -h
+python main.py -h
 ```
