@@ -2,7 +2,7 @@
 Lets you abuse the TikTok API to viewbot videos
 
 # Usage
-- Press the `code` button and download it as zip file, then extract the zip file
+- Press the `code` button and `download ZIP`, then extract the zip file from the file explorer
 - Once you've done that you'll need to install python3, it can be found at https://www.python.org/downloads/ (keep in mind if you install it from there you'll need to tick the install to PATH button) or from windows store or your package manager of choice
 - Open cmd and locate the path of the extracted repository, alternatively on windows 11 this can be done from file explorer by just right clicking and pressing open in terminal
 
