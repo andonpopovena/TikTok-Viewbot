@@ -1,5 +1,6 @@
 # TikTok Viewbot [![Python 3.x](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)](http://www.python.org/download/) [![MIT License](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)](https://github.com/Memisz/TikTok-Viewbot/blob/main/LICENSE)
 Lets you abuse the TikTok API to viewbot videos
+
 https://user-images.githubusercontent.com/98614666/182040527-2c72dd31-1c4a-4e49-ade2-fa2f800d75e5.mp4
 
 # Usage
